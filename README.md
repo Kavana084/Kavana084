@@ -49,20 +49,3 @@
 | 🚌 **AI-Driven Transit Forecasting** | Predicts transit patterns using ML | HTML, CSS, JavaScript |
 | 🎮 **Tic Tac Toe** | Interactive browser game | HTML, CSS, JavaScript |
 
----
-
-## Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=000000&style=for-the-badge&label=VIEWS)
-
-</div>
